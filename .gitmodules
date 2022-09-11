@@ -10,3 +10,6 @@
 [submodule "3rd/yaml-cpp"]
 	path = 3rd/yaml-cpp
 	url = https://github.com/jbeder/yaml-cpp.git
+[submodule "src/QtAwesome"]
+	path = src/QtAwesome
+	url = https://github.com/Skywol/QtAwesome
