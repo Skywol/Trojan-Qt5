@@ -64,7 +64,7 @@ DEFINES += ENABLE_TLS13_CIPHERSUITES
 INCLUDEPATH += $$PWD/src/plog/include
 
 # QtAwesome
-include($$PWD/src/QtAwesome/QtAwesome/QtAwesome.pri)
+include($$PWD/src/QtAwesome/QtAwesome.pri)
 
 win32 {
     SOURCES += \
